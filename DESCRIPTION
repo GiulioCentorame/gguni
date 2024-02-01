@@ -1,0 +1,13 @@
+Package: gguni
+Type: Package
+Title: University Branding Palettes for ggplot2
+Version: 0.1.0
+Authors@R: 
+    person("Giulio", "Centorame", , "giulio.centorame@outlook.it", role = c("aut", "cre"))
+Maintainer: Giulio Centorame <yourself@somewhere.net>
+Description: Provides ggplot2 colour palettes to conform with university branding's colour schemes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
